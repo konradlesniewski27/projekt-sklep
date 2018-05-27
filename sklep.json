@@ -1,0 +1,21 @@
+{
+  "nazwa" : "www.emag.pl",
+  "produkty": [
+    {
+      "typ": "komputer",
+      "id": 1,
+      "nazwa": "hygtfr",
+      "cena": 342,
+      "marka": "Hp",
+      "ram": 8
+    },
+    {
+      "typ": "dron",
+      "id": 2,
+      "nazwa":"hytt",
+      "cena": 456,
+      "zasieg": 890,
+      "czyMaKamere" : true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "produktyy" : [ {
+    "typ" : "komputer",
+    "id" : 1,
+    "nazwa" : "dgfhuj",
+    "cena" : 678,
+    "marka" : "",
+    "ram" : 6
+  }, {
+    "typ" : "dron",
+    "id" : 2,
+    "nazwa" : "yuio",
+    "cena" : 5678,
+    "zasieg" : 56.0,
+    "czyMaKamere" : true
+  } ],
+  "nazwa" : "www.emag.pl"
+}
